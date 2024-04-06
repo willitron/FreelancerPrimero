@@ -1,2 +1,2 @@
 ingresa al link para poder ver el finarl del proyecto
-https://helpful-conkies-ea3b23.netlify.app/
+https://store-wilsonyujra.netlify.app/
